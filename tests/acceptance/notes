@@ -1,1 +1,8 @@
 ember test --server // or // ember t -s
+
+https://emberobserver.com/
+-list of add ons
+
+
+ember install ember-cli-mirage
+mirage lets you do a fake backend for testing
